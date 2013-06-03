@@ -1,0 +1,16 @@
+.logo{
+	max-width:300px;
+}
+
+.loginform{
+}
+
+.container{
+	max-width:900px;
+}
+
+.centered{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
